@@ -36,3 +36,4 @@ OpenWeather API for real-time weather data.
 - Add loading animation  
 
 ## 👩‍💻 Author
+Riya jaiswal
