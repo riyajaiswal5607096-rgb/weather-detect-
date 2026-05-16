@@ -35,5 +35,8 @@ OpenWeather API for real-time weather data.
 - Improve UI design  
 - Add loading animation  
 
+##live link
+weather-detectcity.netlify.app
+
 ## 👩‍💻 Author
 Riya jaiswal
