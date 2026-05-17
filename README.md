@@ -1,42 +1,21 @@
-# Weather App (API Integration)
+# Weather Detect App
 
-A simple and interactive weather web application that fetches real-time weather data using the OpenWeather API.
+A real-time weather application built using HTML, CSS, and JavaScript with OpenWeather API integration.
 
-## 🚀 Features
-- Search weather by city name
+## Features
+- Search weather by city
 - Real-time temperature display
-- Weather condition (Clouds, Rain, Clear, etc.)
-- Dynamic UI updates
-- Error handling for invalid cities
+- Weather conditions
+- Error handling
 
-## 🛠️ Technologies Used
+## Technologies Used
 - HTML
 - CSS
-- JavaScript (Async/Await)
+- JavaScript
 - OpenWeather API
 
-## ⚙️ How It Works
-1. User enters a city name
-2. JavaScript sends a request to OpenWeather API using fetch()
-3. API returns weather data in JSON format
-4. Data is displayed dynamically on the webpage
+## Live Demo
+[Live Site Link]
 
-## 📂 Project Structure
-- index.html → structure of the app  
-- style.css → styling  
-- script.js → API logic and functionality  
-
-## 🔑 API Used
-OpenWeather API for real-time weather data.
-
-## 📌 Future Improvements
-- Add weather icons  
-- Add current location detection  
-- Improve UI design  
-- Add loading animation  
-
-##live link
-weather-detectcity.netlify.app
-
-## 👩‍💻 Author
-Riya jaiswal
+## Author
+Riya Jaiswal
